@@ -1,0 +1,11 @@
+{
+    "Ahmed": {
+      "password": "Ahmed",
+      "role": "angel"
+    },
+    "ahmed": {
+      "password": "ahmed",
+      "role": "worker"
+    }
+  }
+  
